@@ -12,6 +12,7 @@ function App()
          <li>breakfast</li>
          <li>shower</li>
          <li>sleep</li>
+         <li> 100 days of Code : Day1</li>
        </ul>
        </div>
        )
