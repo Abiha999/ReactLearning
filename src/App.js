@@ -8,10 +8,12 @@ function App()
      <div>
       <h1> My list </h1><br/>
        <ul>
-         <li> pray</li>
+         <li> wake up</li>
+         <li> pray   </li>
          <li>breakfast</li>
          <li>shower</li>
          <li>sleep</li>
+         
          <li> 100 days of Code : Day1</li>
        </ul>
        </div>
